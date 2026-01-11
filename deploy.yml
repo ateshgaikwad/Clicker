@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: clicker-container
-        image: clicker-app:latest
+        image: clicker-app
         ports:
         - containerPort: 80
